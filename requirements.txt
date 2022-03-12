@@ -45,7 +45,7 @@ oauthlib==3.1.0
 olefile==0.45.1
 opt-einsum==3.1.0
 pexpect==4.2.1
-Pillow==6.2.0
+Pillow==9.0.1
 protobuf==3.11.3
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
